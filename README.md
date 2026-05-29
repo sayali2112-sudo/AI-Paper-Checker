@@ -5,7 +5,7 @@ An innovative, AI-powered exam paper checking assistant designed specifically fo
 
 ---
 
-## 🚀 The Vision / विज़न
+## 🚀 The Vision 
 
 Manual paper correction and grading is a massive administrative burden for teachers. Existing software solutions require teachers to manually photograph and upload each student's answer sheet one by one, which is time-consuming and exhausting.
 
@@ -13,7 +13,7 @@ Our solution introduces a **Continuous Stream/Video Scanning** model. Teachers j
 
 ---
 
-## ✨ Key Features (मुख्य विशेषताएं)
+## ✨ Key Features 
 
 * **Continuous Live Scanning:** No more clicking photos one by one. Flip pages naturally, and the AI captures frames automatically.
 * **Intelligent Handwriting Recognition (OCR):** Powered by Advanced AI Agents to read and understand handwritten student answers.
@@ -32,7 +32,7 @@ We are building this project during the **Agents League Hackathon** using the Mi
 
 ---
 
-## 👥 Looking for Tech Partners! (टीम की तलाश है)
+## 👥 Looking for Tech Partners! 
 
 I am a visionary, non-tech founder with deep insights into the education sector. **I am actively looking for developers, AI engineers, and hardware enthusiasts** who want to collaborate and turn this prototype into a market-ready commercial product. 
 
